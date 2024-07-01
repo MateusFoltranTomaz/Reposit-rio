@@ -2,9 +2,10 @@
 
 ## Esse é meu formulário!
 
-- Utilizei HTML e CSS 💻
+- # Utilizei HTML e CSS 💻
 
-- Formulário de cadastro contendo:
+
+- # Formulário de cadastro contendo:
 - Nome
 - Email
 - Senha
