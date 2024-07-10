@@ -3,6 +3,7 @@ function Cadastrar(){
     let nomeUsuario = document.getElementById('Nome').value;
     let emailUsuario = document.getElementById('Email').value;
     let senhaUsuario = document.getElementById('Senha').value;
+    
     let confereDados = document.querySelector("input[name='Dados']:checked").value;
 
     alert('Seu nome é: ' + nomeUsuario + '\n' 
@@ -10,6 +11,12 @@ function Cadastrar(){
     + 'Sua senha é: ' + senhaUsuario + '\n'
     + 'Você confirmou os dados: ' + confereDados + '\n');
 
-    
+    window.location.href='Pagina.html'
+
+}
+
+function TelaCadastro(){
+
+    window.location.href='Index.html'
 
 }
