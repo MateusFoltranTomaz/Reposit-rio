@@ -3,7 +3,7 @@
 ## Esse é meu formulário!
 
 - Utilizei HTML, CSS e JS 💻
-- Após se cadastrar se redirecionado a tela de início 🏠
+- Após se cadastrar será redirecionado a tela de início 🏠
 
 
 - # Formulário de cadastro contendo:
